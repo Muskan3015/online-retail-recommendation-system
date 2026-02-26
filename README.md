@@ -10,13 +10,13 @@ Features
 
 Project Structure
 online-retail-recommendation-system/
-├── data/ # Dataset folder
-│ └── Online Retail.xlsx
-├── notebooks/ # Optional Jupyter notebooks
-├── src/
-│ └── main.py # Main Python script
-├── README.md
-└── requirements.txt
+--data/ # Dataset folder
+ --Online Retail.xlsx
+--notebooks/ # Optional Jupyter notebooks
+--src/
+ ---main.py # Main Python script
+ --README.md
+--requirements.txt
 
 How to Run
 1. Install required libraries:  
@@ -24,3 +24,4 @@ How to Run
 pip install -r requirements.txt
 2. Run main script:
 python src/main.py
+
